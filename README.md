@@ -5,3 +5,6 @@ The trianing is done from multiple datasets, with a mixed-batch strategy. The co
 
 The labels for age is from [LAP dataset](http://chalearnlap.cvc.uab.es). 
 The labels for gender and emotion is from [MTFL dataset](http://mmlab.ie.cuhk.edu.hk/projects/TCDCN.html). 
+
+
+A similar implementation in Tensorflow is here: https://github.com/li-js/Face_age_gender_emotion
